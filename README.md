@@ -100,16 +100,21 @@ Step-by-Step ML Workflow:
 
 
 ▶️ How to Run This Project
-# Step 1: Clone the repository
+
+Step 1: Clone the repository
+
 git clone https://github.com/rajankumar-1439/loan-eligibility-prediction-ml
 
-# Step 2: Navigate to project directory
+Step 2: Navigate to project directory
+
 cd loan-eligibility-prediction-ml
 
-# Step 3: Install required libraries
+Step 3: Install required libraries
+
 pip install -Python, Pandas, NumPy, Matplotlib / Seaborn, Scikit-learn, Jupyter Notebook
 
-# Step 4: Open the notebook
+Step 4: Open the notebook
+
 jupyter notebook Loan_Eligibility_prediction.ipynb
 
 
@@ -142,4 +147,5 @@ Rajan Kumar
 📧 Email: rajankumarmu1439@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/rajan-kumar-mu1439/
+
 🔗 GitHub:   https://github.com/rajan-kumar-mu1439
